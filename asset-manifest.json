@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/complitech-frontend-test/static/css/main.c7ec3132.css",
+    "main.js": "/complitech-frontend-test/static/js/main.6b05f9f3.js",
+    "index.html": "/complitech-frontend-test/index.html",
+    "main.c7ec3132.css.map": "/complitech-frontend-test/static/css/main.c7ec3132.css.map",
+    "main.6b05f9f3.js.map": "/complitech-frontend-test/static/js/main.6b05f9f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.6b05f9f3.js"
+  ]
+}
